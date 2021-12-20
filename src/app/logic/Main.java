@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
 
 
-        System.out.println("Amarillo");
+        System.out.println("Mariposa");
     }
 }
+
